@@ -1,4 +1,4 @@
-**Home Price Prediction Web Application**
+# Home Price Prediction Web Application
 
 
 A dynamic web application for predicting home prices using machine learning. The project utilizes a dataset from Kaggle and various models to deliver accurate predictions.
