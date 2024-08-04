@@ -36,3 +36,9 @@ Accurate Predictions: Provides precise home price estimates based on key propert
 Intuitive Design: User-friendly interface for easy interaction.
 
 Real-Time Processing: Instant predictions with robust front-end and back-end integration.
+
+
+
+
+https://github.com/user-attachments/assets/d9be788a-c30d-41c4-bf8b-b89a06b7da50
+
