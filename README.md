@@ -4,6 +4,7 @@ A dynamic web application for predicting home prices using machine learning. The
 Dataset
 
 Source: Kaggle
+
 Description: Dataset of Bangalore home prices, including features like location, number of bedrooms, bathrooms, and area in square feet.
 
 Models
